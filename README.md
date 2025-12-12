@@ -4,15 +4,10 @@
     <td style="vertical-align: top; width: 220px; padding-right: 20px;">
       <img 
         src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JzbDRwc3Z5NzQ4cnVuNjgyZDd3dXlmdzJpeXV2azEycmFxajJoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KVr0JbrdBp9KX644Bk/giphy.webp"
-        width="120"  <!-- 5x smaller -->
-        height="120"
         style="display: block;"
       />
     </td>
     <td style="vertical-align: top;">
-      <p align="center">
-        <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Arnav%20Saha&width=1000&height=250" />
-      </p>
       <div style="font-family:Inter,Segoe UI,Roboto,Helvetica Neue,sans-serif;">
       <h1 align="left">Hi, I'm Arnav Saha</h1>
       I’m a full-stack engineer focused on <strong>Python</strong>, <strong>TypeScript</strong>, <strong>React</strong>, and high-performance backend systems.  

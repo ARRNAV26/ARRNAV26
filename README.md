@@ -3,7 +3,7 @@
     <!-- LEFT SIDE: GIF -->
     <td style="vertical-align: top; width: 220px; padding-right: 1px;">
       <img 
-        src="/arnav_photo1.png"
+        src="/arnav_saha_photo1.png"
         width="240"
         height="240"
         style="display: block;"

@@ -1,17 +1,15 @@
-<div style="display: flex; align-items: flex-start; gap: 20px; width: 100%;">
+<div style="display: flex; align-items: normal; gap: 20px; width: 100%;">
 
   <!-- LEFT SIDE: GIF -->
   <div style="flex: 1; min-width: 180px;">
     <img 
       src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JzbDRwc3Z5NzQ4cnVuNjgyZDd3dXlmdzJpeXV2azEycmFxajJoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KVr0JbrdBp9KX644Bk/giphy.webp"
-      width="120"
-      height="120"
       style="border-radius: 8px; display: block; margin-left: 0;"
     />
   </div>
 
   <!-- RIGHT SIDE: INTRO -->
-  <div style="flex: 4; font-family:Inter,Segoe UI,Roboto,Helvetica Neue,sans-serif;">
+  <div style="flex: 2; font-family:Inter,Segoe UI,Roboto,Helvetica Neue,sans-serif;">
 
 ## Hi there 👋  
 # Hi, I'm Arnav Saha  

@@ -3,7 +3,7 @@
     <!-- LEFT SIDE: GIF -->
     <td style="vertical-align: top; width: 220px; padding-right: 1px;">
       <img 
-        src="https://drive.google.com/file/d/1BrbjH9LUZkKs9i781xYlnBYTodQCmwM9/view?usp=sharing.png"
+        src="https://drive.google.com/file/d/1BrbjH9LUZkKs9i781xYlnBYTodQCmwM9/view?usp=sharing.jpg"
         width="240"
         height="240"
         style="display: block;"
@@ -18,12 +18,12 @@
     <td style="vertical-align: top;">
       <div style="font-family:Inter,Segoe UI,Roboto,Helvetica Neue,sans-serif;">
       <h1 align="left">Hi, I'm Arnav Saha</h1>
-      I’m a full-stack engineer focused on <strong>Python</strong>, <strong>TypeScript</strong>, <strong>React</strong>, and high-performance backend systems.  
+      I’m a full-stack engineer focused on <strong>Python</strong>, <strong>TypeScript</strong>, <strong>React</strong>, and  <strong>Angular</strong>-focused high-performance backend systems.  
       I build <strong>real-time data pipelines</strong>, <strong>production-grade APIs</strong>, and fast, intuitive UIs that prioritize customer value, system reliability, and measurable performance gains.
       <hr />
       <h2>🚀 What I Specialize In</h2>
       <ul>
-        <li><strong>Full-Stack Engineering</strong> — React, Next.js, FastAPI, Django, Node.js</li>
+        <li><strong>Full-Stack Engineering</strong> — React, Angular, Next.js, FastAPI, Django, Node.js</li>
         <li><strong>Backend Architecture</strong> — event-driven systems, microservices, WebSockets</li>
         <li><strong>Real-time & Batch Data Pipelines</strong> — versioned attributes, ETL, caching</li>
         <li><strong>System Performance</strong> — latency reduction, caching layers, optimistic UIs</li>

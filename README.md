@@ -3,7 +3,7 @@
     <!-- LEFT SIDE: GIF -->
     <td style="vertical-align: top; width: 220px; padding-right: 1px;">
       <img 
-        src="https://drive.google.com/file/d/1BrbjH9LUZkKs9i781xYlnBYTodQCmwM9/view?usp=sharing.jpg"
+        src="https://drive.google.com/file/d/1BrbjH9LUZkKs9i781xYlnBYTodQCmwM9/view?usp=sharing.jpeg"
         width="240"
         height="240"
         style="display: block;"

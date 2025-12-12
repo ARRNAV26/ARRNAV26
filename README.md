@@ -2,7 +2,6 @@
 
 <!--
 **ARRNAV26/ARRNAV26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JzbDRwc3Z5NzQ4cnVuNjgyZDd3dXlmdzJpeXV2azEycmFxajJoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KVr0JbrdBp9KX644Bk/giphy.gif

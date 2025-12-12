@@ -3,13 +3,13 @@
     <!-- LEFT SIDE: GIF -->
     <td style="vertical-align: top; width: 220px; padding-right: 1px;">
       <img 
-        src="https://drive.google.com/file/d/1BrbjH9LUZkKs9i781xYlnBYTodQCmwM9/view?usp=sharing.jpeg"
+        src="https://drive.google.com/uc?export=view&id={1BrbjH9LUZkKs9i781xYlnBYTodQCmwM9}"
         width="240"
         height="240"
         style="display: block;"
       />
       <img 
-        src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JzbDRwc3Z5NzQ4cnVuNjgyZDd3dXlmdzJpeXV2azEycmFxajJoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KVr0JbrdBp9KX644Bk/giphy.webp"
+src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JzbDRwc3Z5NzQ4cnVuNjgyZDd3dXlmdzJpeXV2azEycmFxajJoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KVr0JbrdBp9KX644Bk/giphy.webp"
         width="240"
         height="240"
         style="display: block;"

@@ -4,14 +4,14 @@
     <td style="vertical-align: top; width: 2200px; padding-right: 20px;">
       <img 
         src="https://drive.google.com/file/d/1BrbjH9LUZkKs9i781xYlnBYTodQCmwM9/view?usp=sharing"
-        width="1200"
-        height="1200"
+        width="120"
+        height="120"
         style="display: block;"
       />
       <img 
         src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JzbDRwc3Z5NzQ4cnVuNjgyZDd3dXlmdzJpeXV2azEycmFxajJoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KVr0JbrdBp9KX644Bk/giphy.webp"
-        width="1200"
-        height="1200"
+        width="120"
+        height="120"
         style="display: block;"
       />
     </td>

@@ -1,58 +1,55 @@
-<div style="display: flex; flex-direction: row; align-items: flex-start; justify-content: center; width: 100%;">
-
-  <!-- LEFT: BIG GIF (50% of viewport width) -->
-  <div style="flex: 1; max-width: 50vw; display: flex; justify-content: center;">
-    <img 
-      src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JzbDRwc3Z5NzQ4cnVuNjgyZDd3dXlmdzJpeXV2azEycmFxajJoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KVr0JbrdBp9KX644Bk/giphy.webp"
-      style="width: 50vw; height: auto; border-radius: 12px;"
-    />
-  </div>
-
-  <!-- RIGHT: TEXT BLOCK (50% of viewport width) -->
-  <div style="flex: 1; max-width: 50vw; padding-left: 20px; font-family: Inter, Segoe UI, Roboto, Helvetica Neue, sans-serif;">
-
-  <h1>Hi, I'm Arnav Saha</h1>
-
-  <p>
-    I’m a full-stack engineer focused on <strong>Python</strong>, <strong>TypeScript</strong>,  
-    <strong>React</strong>, and <strong>high-performance backend systems</strong>.  
-    I build real-time pipelines, production APIs, and fast UIs that maximize  
-    <strong>customer value</strong>, reliability, and measurable performance.
-  </p>
-
-  <hr />
-
-  <h2>🚀 What I Specialize In</h2>
-  <ul>
-    <li>Full-Stack Engineering — React, Next.js, FastAPI, Django</li>
-    <li>Backend Architecture — event-driven systems, microservices, WebSockets</li>
-    <li>Real-time & Batch Pipelines — ETL, caching, versioned attributes</li>
-    <li>System Performance — latency reduction, optimistic UIs</li>
-    <li>AI & Automation — Python automation, ML fundamentals</li>
-    <li>DevOps — Docker, CI/CD, Render, Vercel</li>
-  </ul>
-
-  <h2>🎯 Current Focus</h2>
-  <ul>
-    <li>Scalable real-time Python architectures</li>
-    <li>React dashboards with near-instant UX</li>
-    <li>Reusable design systems</li>
-    <li>Deterministic pipelines with version safety</li>
-  </ul>
-
-  <h2>🧠 Engineering Philosophy</h2>
-  <ul>
-    <li>Customer Obsession — reduce friction relentlessly</li>
-    <li>Performance First — every action should feel instant</li>
-    <li>Clean Architecture — predictable, maintainable systems</li>
-    <li>Data Correctness — deterministic, version-safe pipelines</li>
-  </ul>
-
-  <h2>🤝 Let’s Build Something</h2>
-  <p>
-    I build fast, reliable, scalable software that solves real business problems.  
-    Open to collaborations and impactful engineering projects.
-  </p>
-
-  </div>
-</div>
+<table>
+  <tr>
+    <!-- LEFT SIDE: GIF -->
+    <td style="vertical-align: top; width: 2200px; padding-right: 20px;">
+      <img 
+        src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JzbDRwc3Z5NzQ4cnVuNjgyZDd3dXlmdzJpeXV2azEycmFxajJoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KVr0JbrdBp9KX644Bk/giphy.webp"
+        width="1200"
+        height="1200"
+        style="display: block;"
+      />
+    </td>
+    <td style="vertical-align: top;">
+      <div style="font-family:Inter,Segoe UI,Roboto,Helvetica Neue,sans-serif;">
+      <h1 align="left">Hi, I'm Arnav Saha</h1>
+      I’m a full-stack engineer focused on <strong>Python</strong>, <strong>TypeScript</strong>, <strong>React</strong>, and high-performance backend systems.  
+      I build <strong>real-time data pipelines</strong>, <strong>production-grade APIs</strong>, and fast, intuitive UIs that prioritize customer value, system reliability, and measurable performance gains.
+      <hr />
+      <h2>🚀 What I Specialize In</h2>
+      <ul>
+        <li><strong>Full-Stack Engineering</strong> — React, Next.js, FastAPI, Django, Node.js</li>
+        <li><strong>Backend Architecture</strong> — event-driven systems, microservices, WebSockets</li>
+        <li><strong>Real-time & Batch Data Pipelines</strong> — versioned attributes, ETL, caching</li>
+        <li><strong>System Performance</strong> — latency reduction, caching layers, optimistic UIs</li>
+        <li><strong>AI & Automation</strong> — Python automation, data intelligence, ML fundamentals</li>
+        <li><strong>DevOps</strong> — Docker, CI/CD, Render, Netlify, Vercel, Linux ops</li>
+      </ul>
+      <h2>🎯 Current Focus</h2>
+      <ul>
+        <li>Scalable real-time Python-based architectures</li>
+        <li>React dashboards with lightning-fast UX</li>
+        <li>Consistent design systems for reusable components</li>
+        <li>Intelligent data pipelines with version-safe attributes</li>
+      </ul>
+      <h2>🧠 Engineering Philosophy</h2>
+      <ul>
+        <li><strong>Customer Obsession</strong> — build what actually reduces friction</li>
+        <li><strong>Performance > Features</strong> — make every action feel instant</li>
+        <li><strong>Clean Architecture</strong> — predictable, maintainable systems</li>
+        <li><strong>Data Correctness</strong> — deterministic pipelines, version-safe attributes</li>
+      </ul>
+      <h2>🛠 Tech Stack</h2>
+      <p><strong>Languages:</strong> Python, TypeScript, JavaScript, SQL</p>
+      <p><strong>Frontend:</strong> React, Next.js, Tailwind, ShadCN</p>
+      <p><strong>Backend:</strong> FastAPI, Django, Express</p>
+      <p><strong>Data:</strong> Pandas, NumPy, ETL, streaming patterns</p>
+      <p><strong>Tools:</strong> Docker, GitHub Actions, Render, Vercel</p>
+      <h2>🤝 Let’s Build Something</h2>
+      <p>
+        I enjoy creating fast, reliable, scalable software that solves real business problems.  
+        If you want to collaborate on something interesting, feel free to connect.
+      </p>
+      </div>
+    </td>
+  </tr>
+</table>

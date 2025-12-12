@@ -1,6 +1,6 @@
 <table style="margin-top: 0; padding-top: 0;">
   <tr>
-    <td style="vertical-align: bottom; width: 220px; padding-right: 1px;">
+    <td style="width: 220px; padding-right: 1px;">
       <img 
         src="/arnav_saha_photo1.png"
         width="240"

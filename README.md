@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JzbDRwc3Z5NzQ4cnVuNjgyZDd3dXlmdzJpeXV2azEycmFxajJoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KVr0JbrdBp9KX644Bk/giphy.webp" 
-  width="180"   <!-- thinner -->
-  height="420"  <!-- longer -->
   style="display: block; margin-left: 0;" />

@@ -14,7 +14,7 @@
       <h3>🔝 Top Contributed Repos</h3>
       <img src="https://github-contributor-stats.vercel.app/api?username=ARRNAV26&limit=5&theme=dark&combine_all_yearly_contributions=true" width="100%" />
       <br/>
-      <img src="https://visitcount.itsvg.in/api?id=ARRNAV26&icon=0&color=0" />
+      <img src="https://komarev.com/ghpvc/?username=ARRNAV26&label=Profile%20Views&color=0e75b6&style=flat" />
     </td>
     <!-- RIGHT COLUMN : 60% -->
     <td width="60%" valign="top">
@@ -30,7 +30,7 @@
       </p>
       <h3>🚀 What I Specialize In</h3>
       <ul>
-        <li>Full-Stack Engineering — React, Angular, Next.js, FastAPI, Django REST, Node.js</li>
+        <li>Full-Stack Engineering — React, Angular, Next.js, FastAPI, Django REST, Flask, Node.js, Express.js</li>
         <li>Backend Architecture — event-driven systems, microservices, WebSockets</li>
         <li>Real-time & Batch Pipelines — versioned attributes, ETL, caching</li>
         <li>System Performance — latency reduction, optimistic UIs</li>

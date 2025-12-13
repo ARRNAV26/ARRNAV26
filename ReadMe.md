@@ -1,7 +1,7 @@
 <table width="100%">
   <tr>
     <td width="40%" valign="top">
-      <img src="/arnav_saha_photo1.png" width="170" height="260" />
+      <img src="/arnav_saha_photo1.png" width="170" height="240" />
       <img src="/giphy.gif" width="170" height="260" />
       <h2>📊 GitHub Stats</h2>
       <img src="https://github-readme-stats.vercel.app/api?username=ARRNAV26&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" width="100%" />

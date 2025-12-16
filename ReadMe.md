@@ -37,6 +37,7 @@
         <li>Real-time & Batch Pipelines — versioned attributes, ETL, caching</li>
         <li>System Performance — latency reduction, optimistic UIs</li>
         <li>AI & Automation — Python automation, ML fundamentals</li>
+        <li>Database Management — PostgreSQL, MySQL, MongoDB, GraphQL</li>
         <li>DevOps — Docker, CI/CD, Render, Netlify, Vercel</li>
       </ul>
       <h3>🎯 Current Focus</h3>

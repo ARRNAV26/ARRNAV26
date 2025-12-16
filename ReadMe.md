@@ -33,7 +33,7 @@
       <h3>🚀 What I Specialize In</h3>
       <ul>
         <li>Full-Stack Engineering — React, Angular, Next.js, FastAPI, Django REST, Flask, Node.js, Express.js</li>
-        <li>Backend Architecture — event-driven systems, microservices, WebSockets</li>
+        <li>Backend Architecture — event-driven systems, microservices, WebSockets, Authentication/ Authorization and RESTful APIs</li>
         <li>Real-time & Batch Pipelines — versioned attributes, ETL, caching</li>
         <li>System Performance — latency reduction, optimistic UIs</li>
         <li>AI & Automation — Python automation, ML fundamentals</li>

@@ -42,8 +42,8 @@
       </ul>
       <h3>🎯 Current Focus</h3>
       <ul>
-        <li>Scalable real-time Python architectures</li>
-        <li>High-performance React dashboards</li>
+        <li>Scalable real-time Python/ Django architectures</li>
+        <li>High-performance React/ Angular/ Next.js dashboards</li>
         <li>Reusable design systems</li>
         <li>Version-safe data pipelines</li>
       </ul>
